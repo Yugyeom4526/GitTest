@@ -9,6 +9,8 @@ git commit -m 주석 -> 레포지토리로 커밋
 
 git branch 이름            -> 이름추가
 git checkout 마스터 이름    -> 마스터 변경
+git branch --deleter 마스터이름  -> 마스터 삭제
+
 git merge 마스터 이름       -> 변경된 내용 합병
 
 개발 브랜치에서 수정한 내용
