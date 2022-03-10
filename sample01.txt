@@ -1,9 +1,10 @@
 깃 사용법
 
+git log -> commit 결과를 봄
 
 
 
-git branch
-git checkout 마스터 이름
+git branch 이름            -> 이름추가
+git checkout 마스터 이름    -> 마스터 변경
 
 개발 브랜치에서 수정한 내용
