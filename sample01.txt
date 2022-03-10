@@ -2,9 +2,13 @@
 
 git log -> commit 결과를 봄
 
+git add 파일이름
+git add .  -> 현재 폴더에 있는 모든 변경 추가
 
+git commit -m 주석 -> 레포지토리로 커밋
 
 git branch 이름            -> 이름추가
 git checkout 마스터 이름    -> 마스터 변경
+git merge 마스터 이름       -> 변경된 내용 합병
 
 개발 브랜치에서 수정한 내용
