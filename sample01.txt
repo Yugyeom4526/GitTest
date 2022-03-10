@@ -1,1 +1,9 @@
 깃 사용법
+
+
+
+
+git branch
+git checkout 마스터 이름
+
+개발 브랜치에서 수정한 내용
