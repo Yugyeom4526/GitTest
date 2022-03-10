@@ -5,6 +5,8 @@ git log -> commit 결과를 봄
 git add 파일이름
 git add .  -> 현재 폴더에 있는 모든 변경 추가
 
+git resrt --hard 해시코드 -> 그 떄로 돌아감
+
 git commit -m 주석 -> 레포지토리로 커밋
 
 git branch 이름            -> 이름추가
@@ -12,5 +14,8 @@ git checkout 마스터 이름    -> 마스터 변경
 git branch --deleter 마스터이름  -> 마스터 삭제
 
 git merge 마스터 이름       -> 변경된 내용 합병
+
+git remote add origin 원격리포지토리 주소  -> 웹에 올리기위한 얼리어스 설정?
+git push -u origin 마스터이름 -> 웹에 올리기 한번이라도 쓰면 다음에는 git push까지만 적어도됨
 
 개발 브랜치에서 수정한 내용
